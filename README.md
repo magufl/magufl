@@ -1,3 +1,6 @@
+<img src="./SRC/images/UNDER-CONSTRUCTION.JPG"/>
+
+
 # Hello, i'm Mar Aguayo 🌊
 
 Currently -> Full Stack developer student on <a href="https://4geeksacademy.com/us/index"> 4 Geeks Academy </a>
