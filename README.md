@@ -1,4 +1,4 @@
-<img src="./SRC/images/UNDER-CONSTRUCTION.JPG"/>
+<img src="./SRC/UNDER CONSTRUCTION.JPG"/>
 
 
 # Hello, i'm Mar Aguayo 🌊
