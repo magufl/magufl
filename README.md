@@ -1,6 +1,6 @@
 # Hello, i'm Mar Aguayo 🌊
 
-Currently -> Full Stack developer student on <a href="4Geeks Academy https://4geeksacademy.com/us/index"> 4 Geeks Academy </a>
+Currently -> Full Stack developer student on <a href="https://4geeksacademy.com/us/index"> 4 Geeks Academy </a>
 
 <!--
 **magufl/magufl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
